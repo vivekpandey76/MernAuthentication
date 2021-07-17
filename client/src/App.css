@@ -1,0 +1,12 @@
+.heading {
+  text-align: center;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+.form-control {
+  font-size: 1.4rem;
+}
+.btn-primary {
+  width: 100%;
+  font-size: 1.4rem;
+}
